@@ -1,0 +1,30 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "My aoi.js tutorials discord bot",
+  "main": "./Base/index.js",
+  "scripts": {
+    "test": "npx nodemon ./Base/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himmeldev/aoi-tutorials.git"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "aoi",
+    "aoi.js",
+    "akarui"
+  ],
+  "author": "Zachary (920942629980635146)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/himmeldev/aoi-tutorials/issues"
+  },
+  "homepage": "https://github.com/himmeldev/aoi-tutorials#readme",
+  "dependencies": {
+    "@akarui/aoi.panel": "^0.0.2",
+    "aoi.js": "^5.5.5"
+  }
+}

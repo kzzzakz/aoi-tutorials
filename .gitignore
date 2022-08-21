@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+./Base/node_modules
+./001_Panel-in-a-nutshell/node_modules
+globalConfig.json
