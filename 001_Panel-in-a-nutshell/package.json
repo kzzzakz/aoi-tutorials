@@ -2,9 +2,9 @@
   "name": "discord-bot",
   "version": "1.0.0",
   "description": "My aoi.js tutorials discord bot",
-  "main": "./Base/index.js",
+  "main": "index.js",
   "scripts": {
-    "test": "npx nodemon ./Base/index.js"
+    "test": "npx nodemon index.js"
   },
   "repository": {
     "type": "git",
